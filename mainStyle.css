@@ -1,0 +1,47 @@
+.head {
+    background-color: #fe961e;
+
+}
+body{
+    background-color: #979797;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.links {
+
+    list-style: none;
+    position: absolute;
+
+    margin-left: 75%;
+    margin-right: 10%;
+}
+
+.mainTitle {
+   text-align: center;
+}
+p{
+    margin: 10px;
+}
+.content{
+    background-color: #edfeee;
+
+    margin-right: 25%;
+    margin-left: 15%;
+}
+.foot{
+    text-align: center;
+    background-color: #fe961e;
+    margin-right: 25%;
+    margin-left: 15%;
+}
+aside{
+    float: right;
+    margin: 10px;
+}
+button
+{
+  background-color: #fe961e;
+    width: 200px;
+   margin-bottom: 10px;
+    font-size: 20px;
+
+}
